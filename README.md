@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaman Singh Dhami
+- 👋 Hi, I’m Kaman Singh Dhami, currently pursuing MSBAPM from Uconn, USA.
 - 👀 I’m interested in Data analytics and Data Science.
 - 🌱 I’m currently learning Data Science using Python.
 - 📫 How to reach me kaman.gbpec@gmail.com
