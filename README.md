@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kaman Singh Dhami.
-- 🌱 I’m currently pursuing Masters from University of Connecticut, USA.
+- 💻 I’m currently working with Discover Financial Services.
+- 🌱 MS in Business Analytics and Project Management from UCONN.
 - 👀 I’m interested in Data analytics and Data Science.
 - 📫 How to reach me kaman.dhami@uconn.edu
 
